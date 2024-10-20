@@ -2,7 +2,10 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=150&section=header&text=JeongHun's%20Github&fontsize=120&fontColor=0f4c81)  
 
-![eunsol's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejeonghun99&hide=issues&show_icons=true&theme=rose&locale=kr)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejeonghun99&layout=compact&exclude_repo=07_Javascript_team,04_mybatis_team,03_jdbc_team,07_Javascript,04_mybatis,06_css_team,05_html_team,03_jdbc,02_mysql,02_mysql_team,01_java_team,05_html,01_Java)](https://github.com/anuraghazra/github-readme-stats)
+![jeonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejeonghun99&hide=issues&show_icons=true&theme=rose&locale=kr)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejeonghun99&layout=compact&exclude_repo=07_Javascript_team,04_mybatis_team,03_jdbc_team,07_Javascript,04_mybatis,06_css_team,05_html_team,03_jdbc,02_mysql,02_mysql_team,01_java_team,05_html,01_Java)](https://github.com/anuraghazra/github-readme-stats)
+**👀 이정훈 백엔드 이력서 확인하기 👀**
+
+<a href="https://www.notion.so/123cbfc5fcd980cbbd88dd1aa292c4a0?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a> 
 
 <a href="https://github.com/devxb/gitanimals">
 <img
